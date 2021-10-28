@@ -35,7 +35,9 @@
 </ol
 
   
-<h2>Most common commands cheat sheet</h2>
+  
+  
+<h1>Most common commands cheat sheet</h1>
 <ul>
   <li>git status - <em>shows the current status and relavent data</em></li>
   <li>git add <strong>pathToFile</strong> - <em>moves specified changes to staging area</em></li>
