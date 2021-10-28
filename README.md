@@ -32,12 +32,12 @@
   after successful merge conflict</li>
   <li>Go to repo page and check your commit history to see how it looks visually and that all steps were done successfully.</li>
   <li>Create a pull Request to merge your feature branch to master</li>
-</ol
+</ol>
 
   
   
   
-<h1>Most common commands cheat sheet</h1>
+<h2>Most common commands cheat sheet</h2>
 <ul>
   <li>git status - <em>shows the current status and relavent data</em></li>
   <li>git add <strong>pathToFile</strong> - <em>moves specified changes to staging area</em></li>
