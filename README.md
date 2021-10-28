@@ -23,10 +23,10 @@
   Hello from merge-conflict branch!<br>
   after successful merge conflict’</li>
   <li>Commit and push your resolved merge conflict</li>
-  <li>You should have your feature branch with the helloWorld.txt file and it’s contents:\
-  ’Hello from feature branch!
-  and
-  Hello from merge-conflict branch!
+  <li>You should have your feature branch with the helloWorld.txt file and it’s contents:<br>
+  ’Hello from feature branch!<br>
+  and<br>
+  Hello from merge-conflict branch!<br>
   after successful merge conflict’</li>
   <li>Go to repo page and check your commit history to see how it looks visually and that all steps were done successfully.</li>
   <li>Create a pull Request to merge your feature branch to master</li>
