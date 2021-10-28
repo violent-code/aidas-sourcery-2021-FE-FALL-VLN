@@ -1,6 +1,8 @@
 <h1>sourcery-dev-2021</h1>
 
 <ol>
+  <li>Fork given repository</li>
+  <li>Go to your github account and find the forked repository</li>
   <li>Clone/Pull repository</li>
   <li>Create your branch. Name it like ‘feature/name-surname’</li>
   <li>Switch to that branch.</li>
