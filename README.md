@@ -33,3 +33,18 @@
   <li>Go to repo page and check your commit history to see how it looks visually and that all steps were done successfully.</li>
   <li>Create a pull Request to merge your feature branch to master</li>
 </ol
+
+  
+<h2>Most common commands cheat sheet</h2>
+<ul>
+  <li>git status - <em>shows the current status and relavent data</em></li>
+  <li>git add <strong>pathToFile</strong> - <em>moves specified changes to staging area</em></li>
+  <li>git add <strong>.</strong> - <em>moves all current changes to staging area</em></li>
+  <li>git commit -m <strong>"message"</strong> - <em>moves changes from staging area to commit history</em></li>
+  <li>git push - <em>updates remote repository with commit history from your local repository</em></li>
+  <li>git push --set-upstream origin <strong>branchName</strong> - <em>creates an istance of your local branch in remote</em></li>
+  <li>git pull - <em>updates your local repository with commit history from remote repository</em></li>
+  <li>git branch <strong>branchName</strong> - <em>creates a new branch in local repository</em></li>
+  <li>git checkout <strong>branchName/hash</strong> - <em>moves to the specified branch or commit</em></li>
+  <li>git merge <strong>branchName</strong> - <em>merge specified branch commit history into current branch</em></li>
+</ul>
