@@ -17,16 +17,16 @@
   <li>Change the contents of helloWorld.txt file to ‘Hello from feature branch!’</li>
   <li>Commit and push your changes</li>
   <li>Merge merge-conflict brach into your feature branch ( feature/name-surname )</li>
-  <li>Resolve conflicts with your favourite editor. Your finished helloWorld.txt file contents should be:\
-  ’Hello from feature branch!\
-  and\
-  Hello from merge-conflict branch!\
+  <li>Resolve conflicts with your favourite editor. Your finished helloWorld.txt file contents should be:<br>
+  ’Hello from feature branch!<br>
+  and<br>
+  Hello from merge-conflict branch!<br>
   after successful merge conflict’</li>
   <li>Commit and push your resolved merge conflict</li>
   <li>You should have your feature branch with the helloWorld.txt file and it’s contents:\
-  ’Hello from feature branch!\
-  and\
-  Hello from merge-conflict branch!\
+  ’Hello from feature branch!
+  and
+  Hello from merge-conflict branch!
   after successful merge conflict’</li>
   <li>Go to repo page and check your commit history to see how it looks visually and that all steps were done successfully.</li>
   <li>Create a pull Request to merge your feature branch to master</li>
